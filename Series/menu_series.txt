@@ -5,65 +5,66 @@
 <channel>
 <name>AÇAO</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/LiveTV/menu_tv.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/A%C3%A7ao/A%C3%87AO.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>COMEDIA</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Filmes/menu_filmes.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/Comedia/COMEDIA.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>DRAMA</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/menu_series.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/Drama/DRAMA.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>FANTASIA</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/Fantasia/FANTASIA.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>FICÇAO CIENTIFICA</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/cursos.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/Fic%C3%A7%C3%A3o%20cientifica/FICCAO%20CIENTIFICA.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>POLICIAL</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/musicas.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/Policial/POLICIAL.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>ROMANCE</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/WWE.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/Romance/ROMANCE.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>SUSPENSE</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/WWE.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/Suspense/SUSPENSE.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>TERROR</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/WWE.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/Terror/TERROR.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
+
 
 
 
