@@ -5,9 +5,10 @@
 <channel>
 <name>SERIE 1</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/LiveTV/menu_tv.txt</externallink>
+<externallink>https://raw.githubusercontent.com/gokustream/addon/refs/heads/main/Series/A%C3%A7ao/Serie1/menu_serie1.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 
 </channels>
+
